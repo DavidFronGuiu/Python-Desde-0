@@ -1,4 +1,5 @@
-#Python Desde 0
+# Python desde 0
+
 Serie de ejercicios para aprender las partes básicas de <i>Python</i>.
 
 1) Inputs y Outputs
